@@ -31,8 +31,13 @@ Nếu có thêm thời gian, mình sẽ ưu tiên:
 - Level Editor Tool
 - Mở rộng hệ thống vũ khí: Thêm nhiều loại vũ khí và hướng nâng cấp.
 - Cải thiện gameplay loop: Tăng chiều sâu cho progression. Cải thiện nhịp độ game và khả năng replay
+  
+---
 
+# Download
+[Android](https://github.com/InfinitelyAzure/Pixel-Destruction/releases/tag/AndroidDemo)
 
+[PC](https://github.com/InfinitelyAzure/Pixel-Destruction/releases/tag/Demo)
 
 ---
 

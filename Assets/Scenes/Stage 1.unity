@@ -327,7 +327,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: 777}
+  m_AnchoredPosition: {x: -566, y: 383}
   m_SizeDelta: {x: 505.18927, y: 70.52078}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1 &226393672
@@ -2161,7 +2161,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: -571}
+  m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 160, y: 30}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &493912294
@@ -3154,8 +3154,8 @@ MonoBehaviour:
   m_fontMaterials: []
   m_fontColor32:
     serializedVersion: 2
-    rgba: 4294967295
-  m_fontColor: {r: 1, g: 1, b: 1, a: 1}
+    rgba: 4278190080
+  m_fontColor: {r: 0, g: 0, b: 0, a: 1}
   m_enableVertexGradient: 0
   m_colorMode: 3
   m_fontColorGradient:
@@ -4419,7 +4419,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -133.09465, y: -261.94232}
+  m_AnchoredPosition: {x: -243, y: -130}
   m_SizeDelta: {x: 984, y: 911.3685}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1505313395
@@ -5621,7 +5621,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::EXPZone
   EXPPrefab: {fileID: 3424358648476347985, guid: 9277fdc4ceda6904dbabc531e698d76a, type: 3}
   EXPAmount: 1
-  expPerVisual: 5
   lifetime: 2
 --- !u!4 &1877549244
 Transform:
@@ -5960,7 +5959,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 1, y: 1}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: -63.90536, y: -133.18102}
+  m_AnchoredPosition: {x: -166, y: -133.18102}
   m_SizeDelta: {x: 33.7814, y: 30}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &2014942928
